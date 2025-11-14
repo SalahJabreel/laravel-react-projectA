@@ -26,3 +26,18 @@ Make sure you have environment setup properly. You will need PHP8.1, composer an
 للمزيد من المعلومات حول النشر على Hostinger، راجع:
 - [دليل النشر على Hostinger](دليل-النشر-Hostinger.md)
 - [دليل النشر السريع](QUICK-DEPLOY.md)
+
+## Credits
+
+This project is based on [laravel-react-starter](https://github.com/thecodeholic/laravel-react-starter) by [thecodeholic](https://github.com/thecodeholic).
+
+### Modifications
+- ✅ Configured for deployment on Hostinger Shared Hosting
+- ✅ Updated Vite config to build React app in public folder
+- ✅ Added React Router support in .htaccess
+- ✅ Created comprehensive deployment guides (Arabic)
+- ✅ Added deployment scripts (deploy.sh, deploy.ps1)
+
+## License
+
+This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
